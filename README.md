@@ -2,7 +2,9 @@
 
 ## overview
 
-original library for BSch3V(CAD of schematics).
+original library for BSch3V.
+
+BSch3V is CAD of schematics.
 
 ![bsch](https://user-images.githubusercontent.com/5597377/136212846-b60715c2-c8dc-49f7-b355-56c606ed71b1.png)
 
@@ -10,7 +12,17 @@ original library for BSch3V(CAD of schematics).
 
 included parts 280 over.
 
-famicom cardedge, megadrive cardedge , etc.
+Famicom cardedge
+
+Megadrive cardedge
+
+PC Engine cardedge
+
+Gameboy cardedge
+
+PC-6001 cardedge
+
+etc.
 
 ## how to use
 
