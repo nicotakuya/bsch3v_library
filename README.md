@@ -4,7 +4,7 @@
 
 original library for BSch3V.
 
-BSch3V is CAD of schematics(回路図エディタ3V).
+BSch3V is CAD of schematics(回路図エディタBSch3V).
 
 ![bsch](https://user-images.githubusercontent.com/5597377/136212846-b60715c2-c8dc-49f7-b355-56c606ed71b1.png)
 
