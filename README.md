@@ -27,8 +27,8 @@ etc.
 
 ## how to use
 
-please select menu.
+please select menu of 設定(setting) and ライブラリ(library). 
 
-設定(setting) - ライブラリ(library). 
+push 'Add' button.
 
 ![bsch_library](https://user-images.githubusercontent.com/5597377/136212857-5eb969d9-c9f3-4b1d-af7a-fa736b46b057.png)
