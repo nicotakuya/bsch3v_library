@@ -6,23 +6,24 @@ original library for BSch3V.
 
 BSch3V is CAD of schematics(回路図エディタBSch3V).
 
-![bsch](https://user-images.githubusercontent.com/5597377/136212846-b60715c2-c8dc-49f7-b355-56c606ed71b1.png)
-
 ## feature
+
+![bsch](https://user-images.githubusercontent.com/5597377/136212846-b60715c2-c8dc-49f7-b355-56c606ed71b1.png)
 
 included parts 280 over.
 
-Famicom cardedge
+・cardedge connecter(Famicom / Megadrive / PC Engine / Gameboy / MSX / PC-6001 / Arcadia2001 / Atari2600).
 
-Megadrive cardedge
+・new JIS part.
 
-PC Engine cardedge
+・logic IC(74HCxxx).
 
-Gameboy cardedge
-
-PC-6001 cardedge
+・memory.
 
 etc.
+
+![bsch2](https://user-images.githubusercontent.com/5597377/136323493-1eb8a512-421b-4b12-a20a-a7f7409f48bd.png)
+
 
 ## how to use
 
