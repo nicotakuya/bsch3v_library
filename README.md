@@ -8,7 +8,7 @@ BSch3V is CAD of schematics(回路図エディタBSch3V).
 
 ## feature
 
-included parts 280 over.
+parts 280 over in the library.
 
 ・cardedge connecter(Famicom / Megadrive / PC Engine / Gameboy / MSX / PC-6001 / Arcadia2001 / Atari2600).
 
@@ -16,7 +16,9 @@ included parts 280 over.
 
 ・logic IC(74HCxxx).
 
-・memory.
+・memory(flash memory/eprom/ram).
+
+・computer board(raspberry pi/M5-stack/Micro bit)
 
 etc.
 
@@ -24,6 +26,7 @@ etc.
 
 ![bsch2](https://user-images.githubusercontent.com/5597377/136323493-1eb8a512-421b-4b12-a20a-a7f7409f48bd.png)
 
+![bsch3](https://user-images.githubusercontent.com/5597377/136349536-11621739-c4c3-44ff-a19d-cca8fee21ab7.png)
 
 ## how to use
 
