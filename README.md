@@ -10,7 +10,7 @@ BSch3V is CAD of schematics(回路図エディタBSch3V).
 
 parts 280 over in the library.
 
-・cardedge connecter(Famicom / Megadrive / PC Engine / Gameboy / MSX / PC-6001 / Arcadia2001 / Atari2600).
+・cardedge(Famicom / Megadrive / PC Engine / Gameboy / MSX / PC-6001 / Arcadia2001 / Atari2600).
 
 ・new JIS part.
 
@@ -19,6 +19,8 @@ parts 280 over in the library.
 ・memory(flash memory/eprom/ram).
 
 ・computer board(raspberry pi/M5-stack/Micro bit)
+
+・connecter(LEGO NXT/EV3/SPIKE/playstation gamepad)
 
 etc.
 
