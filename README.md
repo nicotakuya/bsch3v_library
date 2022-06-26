@@ -18,9 +18,9 @@ parts 280 over in the library.
 
 ・memory(flash memory/eprom/ram).
 
-・computer board(raspberry pi/M5-stack/Micro bit)
+・computer board(Raspberry Pi/Raspberry Pi Pico/M5-stack/M5 StickC/Micro bit)
 
-・connecter(LEGO NXT/EV3/SPIKE/playstation gamepad)
+・connector(LEGO NXT/EV3/SPIKE/playstation gamepad)
 
 etc.
 
