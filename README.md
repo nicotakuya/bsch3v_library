@@ -18,7 +18,7 @@ parts 280 over in the library.
 
 ・memory(flash memory/eprom/ram).
 
-・computer board(Raspberry Pi/Raspberry Pi Pico/M5-stack/M5 StickC/Micro bit)
+・computer board(Raspberry Pi/Raspberry Pi Pico/M5-stack/M5 StickC/Micro bit/WAVESHARE RP2040-ONE)
 
 ・connector(LEGO NXT/EV3/SPIKE/playstation gamepad)
 
