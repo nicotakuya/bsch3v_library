@@ -2,13 +2,11 @@
 
 ## overview
 
-original library for BSch3V.
-
-BSch3V is CAD of schematics(回路図エディタBSch3V).
+「回路図エディタBSch3V」用のオリジナルのライブラリです。
 
 ## feature
 
-parts 280 over in the library.
+350種類以上の部品を登録しています。
 
 ・cardedge(Famicom / SFC / N64 / Megadrive / SEGA mark3 / PC Engine / Gameboy / MSX / PC-6001 / Arcadia2001 / Atari2600).
 
